@@ -5,8 +5,9 @@
 }
 body{
   
-    background-image: url("images/download\ \(1\).jpeg");
-     background-size: cover
+    background-image: url("https://pstravel.pl/wp-content/uploads/2023/04/iOS-16-Weather-Wallpaper-2.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
      
 
 }
